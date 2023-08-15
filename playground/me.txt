@@ -1,6 +1,0 @@
-{{#user}
-Name: Sayandh Kadachi
-Skills: HTML, CSS, JS, React.js, Next.JS
-Email: sayandhkadachi@gmail.com
-{{/user}}
-
